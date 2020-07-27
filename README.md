@@ -1,4 +1,4 @@
-Para que el componente funcione correctamente tienes que pasarle por parámetro el téxto para el placeholder.
+Para que el componente funcione correctamente tienes que pasarle por parámetro el texto para el placeholder.
 
 Añadir también en el index.html de la carpeta public el siguiente script:
 
